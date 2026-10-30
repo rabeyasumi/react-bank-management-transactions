@@ -2,7 +2,8 @@
 
 A frontend-only bank management practice project built with React, Vite, React Router DOM, Context API, and CSS.
 
-<img width="822" height="576" alt="Untitled 4" src="https://github.com/user-attachments/assets/8dbfbbb0-3dcf-4732-b687-32f48d82463f" />
+<img width="1081" height="701" alt="Untitled 4" src="https://github.com/user-attachments/assets/67fe8e71-9a73-49ba-aabd-68a94ccd58d6" />
+
 
 
 ## Features
