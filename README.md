@@ -1,4 +1,4 @@
-# Northstar Bank — Bank Management System
+# Trust Bank — Bank Management System
 
 A frontend-only bank management practice project built with React, Vite, React Router DOM, Context API, and CSS.
 
