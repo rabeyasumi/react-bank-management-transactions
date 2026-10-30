@@ -2,6 +2,9 @@
 
 A frontend-only bank management practice project built with React, Vite, React Router DOM, Context API, and CSS.
 
+<img width="822" height="576" alt="Untitled 4" src="https://github.com/user-attachments/assets/8dbfbbb0-3dcf-4732-b687-32f48d82463f" />
+
+
 ## Features
 
 - Dashboard with account holder, account number, current balance, deposits, and withdrawals
